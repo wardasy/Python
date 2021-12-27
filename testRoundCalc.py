@@ -1,6 +1,3 @@
-#Name: Wardah Shekh Yousef ID: 209011501
-#Name: Naseem Ali  ID: 312343668
-
 import roundCalc
 import unittest
 
