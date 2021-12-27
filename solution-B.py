@@ -1,7 +1,3 @@
-#Name: Wardah Shekh Yousef ID: 209011501
-#Name: Naseem Ali  ID: 312343668
-
-
 ''' Part 1 '''
 
 inches_to_meters = lambda x : x * 0.0254
