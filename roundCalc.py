@@ -1,5 +1,4 @@
-#Name: Wardah Shekh Yousef ID: 209011501
-#Name: Naseem Ali  ID: 312343668
+
 def roundUpMul(a , b):
     ''' Get Round Up'''
     return GetRoundNum(a * b, 1)
