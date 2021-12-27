@@ -1,9 +1,3 @@
-''' name: warda shekh yousef'''
-''' ID: 209011501 '''
-
-
-
-
 """ Question 1 """
 
 def make_matrix(rows , colmns , mat):
